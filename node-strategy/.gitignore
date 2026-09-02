@@ -1,0 +1,7 @@
+node_modules/
+.env
+bot-state.json
+anomalies.jsonl
+key-events.csv
+*.log
+

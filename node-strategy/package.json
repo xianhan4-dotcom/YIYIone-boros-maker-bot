@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@pendle/boros-offchain-math": "^1.0.6",
+    "@pendle/boros-sdk-public": "^0.1.4",
+    "@pendle/sdk-boros": "^1.3.2",
+    "axios": "^1.17.0",
+    "dotenv": "^17.4.2",
+    "viem": "^2.52.2"
+  }
+}

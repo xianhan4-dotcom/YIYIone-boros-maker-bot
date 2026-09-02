@@ -1,0 +1,22 @@
+{
+  "name": "ccdeep_prj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@pendle/boros-sdk-public": "^0.1.4",
+    "dotenv": "^17.4.2",
+    "ethers": "^6.16.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
